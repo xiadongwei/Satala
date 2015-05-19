@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Satala:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Satala_jar</output-path>
+    <root id="archive" name="Satala.jar">
+      <element id="module-output" name="Satala" />
+    </root>
+  </artifact>
+</component>
